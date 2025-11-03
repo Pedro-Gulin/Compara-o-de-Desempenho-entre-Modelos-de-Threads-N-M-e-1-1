@@ -9,3 +9,7 @@
 * **Carga:** Cada thread executa 10 passos em loop
 * **Trabalho:** Cada passo simula um trabalho com o  `Thread.sleep(100)`.
 * **Tempo total por Thread:** 1000ms (1 segundo) de `sleep`.
+
+### Quadro comparativo
+
+<img width="561" height="347" alt="image" src="https://github.com/user-attachments/assets/86ddeb70-9972-463d-a73d-a985052b49da" />
