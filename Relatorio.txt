@@ -1,0 +1,10 @@
+Realizamos os testes com os modelos de Thread 1:1 e N:M.
+Ao realizarmos os testes, em mesmas condições para as 2
+diferentes implementações, usamos o cenário com 10 passos 
+e 100ms de sleep. Vimos que com 10 threads o resultado foi um 
+empate. A diferença foi de menos de 1ms. Porém, a partir de 100 
+threads, o modelo N:M se mostrou mais rápido, ganhando no tempo. 
+Isso deixa claro que o modelo 1:1 não  é melhor com poucas Threads, 
+ele é só "igual". Já o N:M é melhor em um censario com mais Threads, 
+ele não usa mais recurso, necessariamente, ele so usa os recursos de 
+forma muito mais eficiente, liberando a thread do sistema durante o sleep
