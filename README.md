@@ -10,7 +10,7 @@ Alunos: Pedro Gulin, Matheus Pelissari
 ### Cenário de Teste
 * **Carga:** Cada thread executa 10 passos em loop
 * **Trabalho:** Cada passo simula um trabalho com o  `Thread.sleep(100)`.
-* **Tempo total por Thread:** 1000ms (1 segundo) de `sleep`.
+* **Tempo total por Thread:** 1000ms (1 segundo) de `sleep`
 
 ### Quadro comparativo
 
