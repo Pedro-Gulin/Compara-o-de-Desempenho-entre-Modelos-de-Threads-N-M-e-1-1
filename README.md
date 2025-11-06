@@ -1,3 +1,5 @@
+Alunos: Pedro Gulin, Matheus Pelissari
+
 ## Comparação de Desempenho: Threads 1:1 vs N:M
 
 | Modelos  | 10 Threads | 100 Threads | 500 Threads | 1000 Threads |
